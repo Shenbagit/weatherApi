@@ -6,8 +6,8 @@ Rest service exposed to get the weather fore cast based on city, country and lat
 Three services exposed
 
 Get Country list -> List the ISO 3166 country list fetched and saved as Json.
-Search by city -> Fetch the weather cast with city and country as input
-Search by country -> Fetch the weather cast with langitude & latitude.
+Search by city -> Fetch the weathercast with city and country as input
+Search by country -> Fetch the weathercast with longitude & latitude.
 Cache Enabled for all the services.
 
 Running the application
